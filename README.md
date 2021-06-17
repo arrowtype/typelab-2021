@@ -16,7 +16,7 @@ What are shell scripts, anyway? Anything you can run in the terminal (and this i
 
 The first time you build, you will need to clone this repo, set up a virtual environment, and install dependencies.
 
-Note: when there are multiple lines of code, you can copy and paste all of them into a terminal, and run them all at once. They’ll all execute in sequence.
+Note: when there are multiple lines of code, you can copy and paste all of them into a terminal and run them all at once. They’ll all execute in sequence.
 
 ### Clone the repo
 
@@ -71,7 +71,7 @@ And finally, give the build scripts permission to run/execute:
 chmod +x example-source/*.sh
 ```
 
-(Cautionary note: You should be confident in what shell scripts do before giving them permissions and running them. Like Python or many other types of code, they have a lot of power and could mess up your computer by deleting files, taking up too many resources, using your GPU for crypto-mining, etc etc.)
+(Cautionary note: You should be confident in what shell scripts do before giving them permissions and running them. Like Python or many other types of code, they have a lot of power and could mess up your computer by deleting files, taking up too many resources, using your GPU for crypto-mining, etc.)
 
 ### Build
 
