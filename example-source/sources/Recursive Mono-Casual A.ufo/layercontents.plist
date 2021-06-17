@@ -6,21 +6,5 @@
       <string>foreground</string>
       <string>glyphs</string>
     </array>
-    <array>
-      <string>background</string>
-      <string>glyphs.background</string>
-    </array>
-    <array>
-      <string>45degrees</string>
-      <string>glyphs.45degrees</string>
-    </array>
-    <array>
-      <string>overlap</string>
-      <string>glyphs.overlap</string>
-    </array>
-    <array>
-      <string>old-inktrap</string>
-      <string>glyphs.old-inktrap</string>
-    </array>
   </array>
 </plist>
