@@ -10,7 +10,7 @@ What are shell scripts, anyway? Anything you can run in the terminal (and this i
 
 1. This tutorial is Mac-specific, and assumes you are on a recent version of macOS.
 2. This is just a simplified look at one font building approach, mostly for .glyphs / .ufo font sources.
-3. I’m still learning! It’s possible that in the future, I’ll shift to using all Python and/or Makefiles and/or something else. However, this is an way of building fonts that I find relatively approacheable for beginners, which allows quite a bit of control and is pretty scaleable.
+3. I’m still learning! It’s possible/probably that in the future, I’ll shift to using all Python, Makefiles, or something else. Either way, shell scripting is a handy skill, so it’s still worth knowing getting familiar with.
 
 ## Build Instructions
 
@@ -71,6 +71,8 @@ And finally, give the build scripts permission to run/execute:
 chmod +x example-source/*.sh
 ```
 
+(Cautionary note: You should be confident in what shell scripts do before giving them permissions and running them. Like Python or many other types of code, they have a lot of power and could mess up your computer by deleting files, taking up too many resources, using your GPU for crypto-mining, etc etc.)
+
 ### Build
 
 With the environment set up, you can now run the build!
@@ -104,4 +106,5 @@ example-source/build-statics.sh
 - To learn more about using Shell scripts, read [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/), by Tania Rascia.
 - It is extremely useful to use virtual environments to avoid conflicts between different font projects. A technique I like for this is described in [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54), by Matthew Sarmiento.
 - To check out a much more complex font build, take a look at the full [Recursive](https://github.com/arrowtype/recursive) project. In particular, the [mastering](https://github.com/arrowtype/recursive/tree/728ced98fe7acc4756388fc937af43e61012d838/mastering) scripts, by Ben Kiel, show a way to run a font build that mixes AFDKO and FontMake, entirely in Python. Then, the [make-release](https://github.com/arrowtype/recursive/blob/728ced98fe7acc4756388fc937af43e61012d838/src/build-scripts/make-release/00-prep-release.sh) scripts, by me (Stephen Nixon) use a blend of Shell & Python scripts to package the built fonts in a specific way for GitHub releases. Most font builds don’t need to be this complex, but there are a lot of useful techniques employed in here.
+- There is some very cool work being done to automate and speed up font builds further. Check out [this quick demo by Simon Cozens](https://twitter.com/simoncozens/status/1405267459028905984?s=20).
 - You can learn a lot by just starting to use tools for font builds. Check out [FontMake](https://github.com/googlefonts/fontmake), [FontBakery](https://github.com/googlefonts/fontbakery/), [woff2](https://github.com/google/woff2), [GF Tools](https://github.com/googlefonts/gftools), [FontTools](https://github.com/fonttools/fonttools), and [DrawBot](https://www.drawbot.com/).

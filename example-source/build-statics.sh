@@ -36,8 +36,13 @@ function fixfont {
     rm "${static/.$ext/-backup-fonttools-prep-gasp.$ext}"
 
     # [NOTE: a full build would usually include more fixing scripts]
+
+    # add family name suffix to avoid installation conflicts with full Recursive typeface
+    python example-source/build-helpers/add-familyname-suffix.py "$static" --suffix "TL21" --inplace
+
 }
 
+# this style of looping through files allows file paths to include spaces
 find "$staticDir" -path '*.*tf' -print0 | while read -d $'\0' file
 do
     fixfont "$file"

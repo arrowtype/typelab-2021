@@ -7,7 +7,6 @@
 
     python3 example/build-helpers/add-familyname-suffix.py <font_path> -s <suffix>
 
-    
 """
 
 from fontTools.ttLib import TTFont
@@ -28,22 +27,15 @@ def getFontNameID(font, ID, platformID=3, platEncID=1):
     return name
 
 def setFontNameID(font, ID, newName):
-    print(f"\n\t• name {ID}:")
+    # print(f"\n\t• name {ID}:")
     macIDs = {"platformID": 3, "platEncID": 1, "langID": 0x409}
-    winIDs = {"platformID": 1, "platEncID": 0, "langID": 0x0}
 
     oldMacName = font['name'].getName(ID, *macIDs.values())
-    oldWinName = font['name'].getName(ID, *winIDs.values())
 
     if oldMacName != newName:
-        print(f"\n\t\t Mac name was '{oldMacName}'")
+        # print(f"\n\t\t Name was '{oldMacName}'")
         font['name'].setName(newName, ID, *macIDs.values())
-        print(f"\t\t Mac name now '{newName}'")
-
-    if oldWinName != newName:
-        print(f"\n\t\t Win name was '{oldWinName}'")
-        font['name'].setName(newName, ID, *winIDs.values())
-        print(f"\t\t Win name now '{newName}'")
+        # print(f"\t\t Name now '{newName}'")
 
 def getStyleNames(font):
     """
@@ -65,8 +57,8 @@ def getStyleNames(font):
 
 def main():
     args = parser.parse_args()
-    # open font path as a font object, for manipulation
 
+    # open font path as a font object, for manipulation
     fontPath = args.fontPath[0]
     font = TTFont(fontPath)
     suffix = args.suffix
@@ -100,14 +92,15 @@ def main():
     setFontNameID(font, 3, newUniqueName)
 
     # UPDATE NAME ID 1, basic font name
-    setFontNameID(font, 1, newFamName)
+    setFontNameID(font, 1, newFullName)
 
     # print info
-    print("16:", newFamName)
-    print(" 6:", newPsName)
-    print(" 4:", newFullName)
-    print(" 3:", newUniqueName)
-    print(" 1:", newFamName)
+    print("Names suffixed:")
+    print("   1:", getFontNameID(font, 1))
+    print("   3:", getFontNameID(font, 3))
+    print("   4:", getFontNameID(font, 4))
+    print("   6:", getFontNameID(font, 6))
+    print("  16:", getFontNameID(font, 16))
 
     # SAVE FONT
     if args.inplace:

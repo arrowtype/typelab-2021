@@ -39,6 +39,9 @@ python example-source/build-helpers/add-STAT.py $desktopDir
 gftools fix-nonhinting "$vfPath" "$vfPath"
 rm "${vfPath/.ttf/-backup-fonttools-prep-gasp.ttf}"
 
+# add family name suffix to avoid installation conflicts with full Recursive typeface
+python example-source/build-helpers/add-familyname-suffix.py $vfPath --suffix "TL21" --inplace
+
 # [NOTE: a full build would usually include more fixing scripts]
 
 # -----------------------------------------------------------------------
