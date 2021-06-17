@@ -18,7 +18,7 @@ The first time you build, you will need to clone this repo, set up a virtual env
 
 Note: when there are multiple lines of code, you can copy and paste all of them into a terminal and run them all at once. They’ll all execute in sequence.
 
-### Clone the repo
+### First step: Install a woff2 compressor
 
 Open a fresh Terminal or Command Line window.
 
