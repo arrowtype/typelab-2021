@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ndot" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E44"/>
+  <outline>
+    <contour>
+      <point x="376.35382477793587" y="917.3018867924529" type="curve"/>
+      <point x="364.98590024963397" y="876.0754716981132" type="line" smooth="yes"/>
+      <point x="347.6179757213321" y="811.9716981132076"/>
+      <point x="372.64627760812454" y="783.8962264150944"/>
+      <point x="442.5613719477472" y="783.8962264150944" type="curve" smooth="yes"/>
+      <point x="464.46703232510566" y="783.8962264150944"/>
+      <point x="491.740617230766" y="785.6037735849056"/>
+      <point x="514.5991077968037" y="789.0188679245283" type="curve"/>
+      <point x="525.5519379854829" y="832.8301886792453" type="line" smooth="yes"/>
+      <point x="539.5047681741622" y="890.0566037735849"/>
+      <point x="513.589673834516" y="922.7169811320755"/>
+      <point x="448.8066549666151" y="922.7169811320755" type="curve" smooth="yes"/>
+      <point x="426.989437985483" y="922.7169811320755"/>
+      <point x="399.6313794093038" y="921.3554728460614"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

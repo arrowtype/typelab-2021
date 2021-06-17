@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow.sans" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="129.62264150943395" y="-106.84905660377359" type="line"/>
+      <point x="129.62264150943395" y="-111.97169811320755"/>
+      <point x="129.62264150943395" y="-117.38679245283019"/>
+      <point x="129.62264150943395" y="-123.21698113207547" type="curve" smooth="yes"/>
+      <point x="129.62264150943395" y="-184.1320754716981"/>
+      <point x="147.96855345912925" y="-206.37735849056605"/>
+      <point x="239.6509433962264" y="-206.37735849056605" type="curve" smooth="yes"/>
+      <point x="525.8962264150944" y="-206.37735849056605" type="line"/>
+      <point x="528.0188679245283" y="-195.5943396226415"/>
+      <point x="530.8490566037735" y="-180.27358490566039"/>
+      <point x="530.8490566037735" y="-165.95283018867926" type="curve" smooth="yes"/>
+      <point x="530.8490566037735" y="-124.14150943396227"/>
+      <point x="517.3584905660377" y="-106.84905660377359"/>
+      <point x="472.47169811320754" y="-106.84905660377359" type="curve" smooth="yes"/>
+    </contour>
+    <component base="l.sans"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

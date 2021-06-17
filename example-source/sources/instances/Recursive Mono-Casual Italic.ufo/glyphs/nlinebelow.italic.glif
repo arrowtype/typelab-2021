@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlinebelow.italic" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="13.844269959941503" y="-113.28301886792453" type="line"/>
+      <point x="10.01408128069622" y="-119.52830188679245"/>
+      <point x="6.183892601450936" y="-127.60377358490565"/>
+      <point x="3.353703922205653" y="-137.9245283018868" type="curve" smooth="yes"/>
+      <point x="-6.382145134398121" y="-174.45283018867926"/>
+      <point x="9.674458639186778" y="-192.33962264150944"/>
+      <point x="59.31596807314904" y="-192.33962264150944" type="curve" smooth="yes"/>
+      <point x="374.25936429956414" y="-192.33962264150944" type="line"/>
+      <point x="380.58011901654527" y="-183.77358490566039"/>
+      <point x="386.4857793939037" y="-174.2075471698113"/>
+      <point x="390.7310624127717" y="-159.22641509433961" type="curve" smooth="yes"/>
+      <point x="398.80653411088485" y="-131.0943396226415"/>
+      <point x="388.58011901654527" y="-113.28301886792453"/>
+      <point x="358.12728882786604" y="-113.28301886792453" type="curve" smooth="yes"/>
+    </contour>
+    <component base="n.italic"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

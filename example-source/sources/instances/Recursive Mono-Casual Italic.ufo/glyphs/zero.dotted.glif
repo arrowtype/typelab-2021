@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dotted" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="378.6603773584906" y="393.45283018867923" type="line"/>
+      <point x="368.66037735849056" y="403.45283018867923"/>
+      <point x="354.24528301886795" y="409.2830188679245"/>
+      <point x="336.4905660377359" y="409.2830188679245" type="curve"/>
+      <point x="309.24528301886795" y="409.2830188679245"/>
+      <point x="286.4150943396226" y="396.54716981132077"/>
+      <point x="275.92452830188677" y="356.5849056603774" type="curve" smooth="yes"/>
+      <point x="262.01886792452825" y="301.54716981132077" type="line"/>
+      <point x="271.60377358490564" y="290.54716981132077"/>
+      <point x="283.60377358490564" y="285.7169811320755"/>
+      <point x="302.11320754716985" y="285.7169811320755" type="curve" smooth="yes"/>
+      <point x="333.1132075471698" y="285.7169811320755"/>
+      <point x="355.26415094339626" y="299.52830188679246"/>
+      <point x="361.9245283018868" y="327.33962264150944" type="curve" smooth="yes"/>
+    </contour>
+    <component base="zero.sans"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

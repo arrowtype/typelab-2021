@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equivalence" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2261"/>
+  <outline>
+    <contour>
+      <point x="57.7311320754717" y="613.6603773584906" type="line"/>
+      <point x="54.16981132075472" y="595.0"/>
+      <point x="51.4622641509434" y="574.3396226415094"/>
+      <point x="51.4622641509434" y="556.9481132075472" type="curve"/>
+      <point x="51.4622641509434" y="497.1132075471698"/>
+      <point x="68.4622641509434" y="478.2830188679245"/>
+      <point x="120.0754716981132" y="478.2830188679245" type="curve" smooth="yes"/>
+      <point x="558.7830188679245" y="478.2830188679245" type="line"/>
+      <point x="558.7830188679245" y="483.84433962264154"/>
+      <point x="558.7830188679245" y="489.5518867924528"/>
+      <point x="558.7830188679245" y="495.9669811320755" type="curve" smooth="yes"/>
+      <point x="558.7830188679245" y="592.2688679245283"/>
+      <point x="541.0990566037735" y="613.6603773584906"/>
+      <point x="462.60377358490564" y="613.6603773584906" type="curve"/>
+    </contour>
+    <contour>
+      <point x="51.4622641509434" y="368.54245283018867" type="line"/>
+      <point x="51.4622641509434" y="362.9811320754717"/>
+      <point x="51.4622641509434" y="357.27358490566036"/>
+      <point x="51.4622641509434" y="350.85849056603774" type="curve" smooth="yes"/>
+      <point x="51.4622641509434" y="254.5566037735849"/>
+      <point x="69.14622641509433" y="233.16509433962264"/>
+      <point x="147.64150943396226" y="233.16509433962264" type="curve"/>
+      <point x="552.5141509433962" y="233.16509433962264" type="line"/>
+      <point x="556.0754716981132" y="251.97169811320754"/>
+      <point x="558.7830188679245" y="272.6320754716981"/>
+      <point x="558.7830188679245" y="289.87735849056605" type="curve"/>
+      <point x="558.7830188679245" y="349.7122641509434"/>
+      <point x="541.7830188679245" y="368.54245283018867"/>
+      <point x="490.1698113207547" y="368.54245283018867" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="57.7311320754717" y="123.4245283018868" type="line"/>
+      <point x="54.16981132075472" y="104.76415094339623"/>
+      <point x="51.4622641509434" y="84.10377358490567"/>
+      <point x="51.4622641509434" y="66.7122641509434" type="curve"/>
+      <point x="51.4622641509434" y="6.877358490566038"/>
+      <point x="68.4622641509434" y="-11.952830188679245"/>
+      <point x="120.0754716981132" y="-11.952830188679245" type="curve" smooth="yes"/>
+      <point x="558.7830188679245" y="-11.952830188679245" type="line"/>
+      <point x="558.7830188679245" y="-6.3915094339622645"/>
+      <point x="558.7830188679245" y="-0.6839622641509431"/>
+      <point x="558.7830188679245" y="5.731132075471698" type="curve" smooth="yes"/>
+      <point x="558.7830188679245" y="102.03301886792453"/>
+      <point x="541.0990566037735" y="123.4245283018868"/>
+      <point x="462.60377358490564" y="123.4245283018868" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.guideline.magnetic.13EKJEBjyT</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.3Uk0WPrDU0</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.3UlSiPUivc</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.6Eq1o0lSaL</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.7nvRIkB1GG</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.82l8Dh2AW1</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.85WiAFKT6V</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.AQKeLMsISk</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.AcO2awqRmJ</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.BRVaSgV22q</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.CBZ2KwUZtT</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.Cs7drL8B1B</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.GtmeaZT2Eg</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.HpYjoimjiS</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.JIp3m2U1Nc</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.KRl2b9IS6o</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.KXhCIJuvxg</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.Lhjx12C5uv</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.PUvkqHnOOo</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.RMvGASjSP9</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.S6IZJQrqI1</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.YIwcLCr4ZM</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.Z3lNS5lX1l</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.ahAY2qk3lG</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.cIHngJG6Fh</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.d6sMdJAPHn</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.dDXY7pVbBv</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.eSGSg2FRbS</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.glzgvHYqmC</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.jBK6DiLn0v</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.kMIars9O4A</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.n9y7zZvvGy</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.uM5L884SZa</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelow.sans" format="2">
+  <advance width="600.0"/>
+  <anchor x="253.6603773584906" y="711.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="143.54716981132074" y="-85.14150943396227" type="curve"/>
+      <point x="135.83962264150944" y="-115.67924528301889" type="line" smooth="yes"/>
+      <point x="118.76415094339623" y="-183.27358490566039"/>
+      <point x="152.86792452830187" y="-211.0566037735849"/>
+      <point x="210.75471698113208" y="-211.0566037735849" type="curve" smooth="yes"/>
+      <point x="233.36792452830187" y="-211.0566037735849"/>
+      <point x="252.56603773584905" y="-208.64150943396226"/>
+      <point x="271.1792452830189" y="-200.27358490566039" type="curve"/>
+      <point x="278.3018867924528" y="-171.3679245283019" type="line" smooth="yes"/>
+      <point x="292.83962264150944" y="-112.38679245283019"/>
+      <point x="262.44339622641513" y="-77.89622641509433"/>
+      <point x="206.3867924528302" y="-77.89622641509433" type="curve" smooth="yes"/>
+      <point x="183.77358490566036" y="-77.89622641509433"/>
+      <point x="162.8679245283019" y="-80.31132075471699"/>
+    </contour>
+    <component base="L.sans"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

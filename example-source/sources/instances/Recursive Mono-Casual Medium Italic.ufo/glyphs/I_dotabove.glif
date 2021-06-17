@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotabove" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="386.1620580617151" y="911.4528301886793" type="curve"/>
+      <point x="376.11017126926225" y="874.6132075471698" type="line" smooth="yes"/>
+      <point x="360.05828447680943" y="814.4575471698113"/>
+      <point x="382.60073730699816" y="787.8443396226415"/>
+      <point x="444.4733788164321" y="787.8443396226415" type="curve" smooth="yes"/>
+      <point x="464.3318693824698" y="787.8443396226415"/>
+      <point x="488.24224674096035" y="789.4056603773585"/>
+      <point x="508.02998259001697" y="792.5283018867925" type="curve"/>
+      <point x="517.9592278730357" y="832.2452830188679" type="line" smooth="yes"/>
+      <point x="530.8884731560546" y="885.0849056603773"/>
+      <point x="507.84916497993544" y="916.5754716981132"/>
+      <point x="449.841303344734" y="916.5754716981132" type="curve" smooth="yes"/>
+      <point x="430.0529778730359" y="916.5754716981132"/>
+      <point x="406.488918069267" y="915.288675124542"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

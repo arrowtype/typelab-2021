@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorndot" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1EF0"/>
+  <outline>
+    <contour>
+      <point x="146.0706850542811" y="-91.28301886792453" type="curve"/>
+      <point x="138.65559071465847" y="-120.35849056603773" type="line" smooth="yes"/>
+      <point x="124.50464731843206" y="-176.54716981132077"/>
+      <point x="150.71219448824337" y="-201.11320754716982"/>
+      <point x="197.48577939390378" y="-201.11320754716982" type="curve" smooth="yes"/>
+      <point x="215.71219448824337" y="-201.11320754716982"/>
+      <point x="231.1084209033377" y="-199.28301886792454"/>
+      <point x="245.33483599767735" y="-193.54716981132077" type="curve"/>
+      <point x="251.58011901654527" y="-168.73584905660377" type="line" smooth="yes"/>
+      <point x="264.6555907146585" y="-116.77358490566039"/>
+      <point x="241.86313788446978" y="-85.79245283018868"/>
+      <point x="195.74993033729996" y="-85.79245283018868" type="curve" smooth="yes"/>
+      <point x="177.52351524296037" y="-85.79245283018868"/>
+      <point x="160.71219448824337" y="-87.62264150943396"/>
+    </contour>
+    <component base="U"/>
+    <component base="horncomb.case" xOffset="476.566037735849"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

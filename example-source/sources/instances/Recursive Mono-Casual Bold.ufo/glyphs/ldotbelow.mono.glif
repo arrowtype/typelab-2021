@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow.mono" format="2">
+  <advance width="600.0"/>
+  <anchor x="248.6556603773585" y="756.4669811320755" name="top"/>
+  <outline>
+    <component base="l.mono"/>
+    <component base="dotbelowcomb" xOffset="365.97169811320754"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

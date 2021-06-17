@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mdotbelow" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E42"/>
+  <outline>
+    <contour>
+      <point x="140.99528301886792" y="-82.07075471698114" type="curve"/>
+      <point x="133.14150943396226" y="-113.33962264150942" type="line" smooth="yes"/>
+      <point x="114.60377358490567" y="-186.6367924528302"/>
+      <point x="152.65566037735846" y="-216.02830188679246"/>
+      <point x="216.09905660377362" y="-216.02830188679246" type="curve" smooth="yes"/>
+      <point x="240.90566037735852" y="-216.02830188679246"/>
+      <point x="262.00471698113205" y="-213.32075471698113"/>
+      <point x="282.811320754717" y="-203.63679245283018" type="curve"/>
+      <point x="290.372641509434" y="-172.68396226415095" type="line" smooth="yes"/>
+      <point x="305.64150943396226" y="-110.1933962264151"/>
+      <point x="271.4433962264151" y="-73.94811320754717"/>
+      <point x="210.41509433962264" y="-73.94811320754717" type="curve" smooth="yes"/>
+      <point x="185.60849056603774" y="-73.94811320754717"/>
+      <point x="162.6556603773585" y="-76.6556603773585"/>
+    </contour>
+    <component base="M"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

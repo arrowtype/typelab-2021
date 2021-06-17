@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdot" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1EC6"/>
+  <outline>
+    <contour>
+      <point x="176.24049637503583" y="-91.28301886792453" type="curve"/>
+      <point x="168.8254020354132" y="-120.35849056603773" type="line" smooth="yes"/>
+      <point x="154.67445863918678" y="-176.54716981132077"/>
+      <point x="180.8820058089981" y="-201.11320754716982"/>
+      <point x="227.6555907146585" y="-201.11320754716982" type="curve" smooth="yes"/>
+      <point x="245.8820058089981" y="-201.11320754716982"/>
+      <point x="261.2782322240924" y="-199.28301886792454"/>
+      <point x="275.50464731843203" y="-193.54716981132077" type="curve"/>
+      <point x="281.7499303373" y="-168.73584905660377" type="line" smooth="yes"/>
+      <point x="294.8254020354132" y="-116.77358490566039"/>
+      <point x="272.0329492052245" y="-85.79245283018868"/>
+      <point x="225.91974165805468" y="-85.79245283018868" type="curve" smooth="yes"/>
+      <point x="207.6933265637151" y="-85.79245283018868"/>
+      <point x="190.88200580899812" y="-87.62264150943396"/>
+    </contour>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="299.9033327067396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="114.47169811320755" y="372.89150943396226" type="line"/>
+      <point x="109.66509433962264" y="363.27830188679246"/>
+      <point x="104.98113207547169" y="352.4716981132076"/>
+      <point x="101.1745283018868" y="337.24528301886795" type="curve"/>
+      <point x="90.68396226415095" y="294.7216981132076"/>
+      <point x="102.73584905660378" y="276.8632075471698"/>
+      <point x="142.5754716981132" y="276.8632075471698" type="curve" smooth="yes"/>
+      <point x="543.9481132075472" y="276.8632075471698" type="line"/>
+      <point x="549.316037735849" y="286.4764150943396"/>
+      <point x="554.561320754717" y="300.6509433962264"/>
+      <point x="557.2452830188679" y="312.50943396226415" type="curve" smooth="yes"/>
+      <point x="568.2971698113207" y="355.0330188679245"/>
+      <point x="556.245283018868" y="372.89150943396226"/>
+      <point x="516.9669811320755" y="372.89150943396226" type="curve" smooth="yes"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

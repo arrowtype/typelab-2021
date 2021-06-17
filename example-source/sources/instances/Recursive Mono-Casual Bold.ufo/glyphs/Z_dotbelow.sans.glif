@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow.sans" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="215.21226415094338" y="-79.50943396226415" type="curve"/>
+      <point x="215.21226415094338" y="-157.97641509433961" type="line" smooth="yes"/>
+      <point x="215.21226415094338" y="-207.29716981132077"/>
+      <point x="259.82547169811323" y="-216.02830188679246"/>
+      <point x="316.438679245283" y="-216.02830188679246" type="curve" smooth="yes"/>
+      <point x="337.8301886792453" y="-216.02830188679246"/>
+      <point x="364.9056603773585" y="-214.1745283018868"/>
+      <point x="387.4198113207547" y="-210.46698113207546" type="curve"/>
+      <point x="387.4198113207547" y="-132.0" type="line" smooth="yes"/>
+      <point x="387.4198113207547" y="-82.67924528301887"/>
+      <point x="342.95283018867923" y="-73.94811320754717"/>
+      <point x="286.1933962264151" y="-73.94811320754717" type="curve" smooth="yes"/>
+      <point x="264.8018867924528" y="-73.94811320754717"/>
+      <point x="237.72641509433961" y="-75.80188679245283"/>
+    </contour>
+    <component base="Z.sans"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

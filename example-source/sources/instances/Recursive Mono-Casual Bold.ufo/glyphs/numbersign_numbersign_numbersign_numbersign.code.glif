@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_numbersign_numbersign_numbersign.code" format="2">
+  <advance width="2400.0"/>
+  <anchor x="600.0" y="0.0" name="caret_1"/>
+  <anchor x="1200.0" y="0.0" name="caret_2"/>
+  <anchor x="1800.0" y="0.0" name="caret_3"/>
+  <outline>
+    <contour>
+      <point x="443.70754716981133" y="424.3867924528302" type="line"/>
+      <point x="793.7547169811321" y="424.3867924528302" type="line"/>
+      <point x="793.7547169811321" y="542.688679245283" type="line"/>
+      <point x="443.70754716981133" y="542.688679245283" type="line"/>
+    </contour>
+    <contour>
+      <point x="412.24528301886795" y="157.31132075471697" type="line"/>
+      <point x="762.2924528301887" y="157.31132075471697" type="line"/>
+      <point x="762.2924528301887" y="275.6132075471698" type="line"/>
+      <point x="412.24528301886795" y="275.6132075471698" type="line"/>
+    </contour>
+    <contour>
+      <point x="1043.7075471698113" y="424.3867924528302" type="line"/>
+      <point x="1393.754716981132" y="424.3867924528302" type="line"/>
+      <point x="1393.754716981132" y="542.688679245283" type="line"/>
+      <point x="1043.7075471698113" y="542.688679245283" type="line"/>
+    </contour>
+    <contour>
+      <point x="1012.2452830188679" y="157.31132075471697" type="line"/>
+      <point x="1362.2924528301887" y="157.31132075471697" type="line"/>
+      <point x="1362.2924528301887" y="275.6132075471698" type="line"/>
+      <point x="1012.2452830188679" y="275.6132075471698" type="line"/>
+    </contour>
+    <contour>
+      <point x="1643.7075471698113" y="424.3867924528302" type="line"/>
+      <point x="1993.754716981132" y="424.3867924528302" type="line"/>
+      <point x="1993.754716981132" y="542.688679245283" type="line"/>
+      <point x="1643.7075471698113" y="542.688679245283" type="line"/>
+    </contour>
+    <contour>
+      <point x="1612.245283018868" y="157.31132075471697" type="line"/>
+      <point x="1962.2924528301887" y="157.31132075471697" type="line"/>
+      <point x="1962.2924528301887" y="275.6132075471698" type="line"/>
+      <point x="1612.245283018868" y="275.6132075471698" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="33.29716981132076"/>
+    <component base="numbersign" xOffset="619.6367924528302"/>
+    <component base="numbersign" xOffset="1194.0235849056603"/>
+    <component base="numbersign" xOffset="1772.6792452830189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,1,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

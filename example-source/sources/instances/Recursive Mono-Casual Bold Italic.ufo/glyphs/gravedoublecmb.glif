@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedoublecmb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="68.85377358490567" y="546.9528301886793" name="_top"/>
+  <outline>
+    <component base="gravecomb" xOffset="-74.38679245283018"/>
+    <component base="gravecomb" xOffset="102.68867924528301"/>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlinebelow.mono" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="16.504647318432063" y="-107.14150943396227" type="line"/>
+      <point x="12.089552978809422" y="-114.26415094339623"/>
+      <point x="7.674458639186781" y="-123.80188679245283"/>
+      <point x="4.25936429956414" y="-136.4622641509434" type="curve" smooth="yes"/>
+      <point x="-8.108560228737744" y="-183.22641509433961"/>
+      <point x="12.919741658054704" y="-206.66981132075472"/>
+      <point x="82.74049637503585" y="-206.66981132075472" type="curve" smooth="yes"/>
+      <point x="377.21219448824337" y="-206.66981132075472" type="line"/>
+      <point x="385.872571846734" y="-194.88679245283018"/>
+      <point x="393.82540203541316" y="-182.10377358490567"/>
+      <point x="398.9480435448471" y="-163.61320754716982" type="curve" smooth="yes"/>
+      <point x="408.4857793939037" y="-129.04716981132077"/>
+      <point x="393.872571846734" y="-107.14150943396227"/>
+      <point x="354.64615675239435" y="-107.14150943396227" type="curve" smooth="yes"/>
+    </contour>
+    <component base="r.mono"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot.sans" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="389.1698113207547" y="464.3490566037736" type="curve"/>
+      <point x="376.6320754716981" y="418.73584905660374" type="line" smooth="yes"/>
+      <point x="359.55660377358487" y="356.3867924528302"/>
+      <point x="385.4622641509434" y="330.6509433962264"/>
+      <point x="455.37735849056605" y="330.6509433962264" type="curve" smooth="yes"/>
+      <point x="477.8679245283019" y="330.6509433962264"/>
+      <point x="505.4339622641509" y="332.35849056603774"/>
+      <point x="528.5849056603773" y="335.77358490566036" type="curve"/>
+      <point x="540.122641509434" y="381.33962264150944" type="line" smooth="yes"/>
+      <point x="554.0754716981132" y="437.39622641509436"/>
+      <point x="527.6320754716982" y="469.47169811320754"/>
+      <point x="463.08490566037733" y="469.47169811320754" type="curve" smooth="yes"/>
+      <point x="440.5943396226415" y="469.47169811320754"/>
+      <point x="412.3207547169811" y="467.7641509433962"/>
+    </contour>
+    <component base="L.sans"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="270.0566037735849" y="433.66037735849056" type="curve" smooth="yes"/>
+      <point x="288.52830188679246" y="433.66037735849056"/>
+      <point x="298.0943396226415" y="438.1509433962264"/>
+      <point x="308.66037735849056" y="449.54716981132077" type="curve" smooth="yes"/>
+      <point x="353.6792452830189" y="495.64150943396226"/>
+      <point x="391.1320754716981" y="600.6792452830189"/>
+      <point x="391.1320754716981" y="697.5849056603773" type="curve" smooth="yes"/>
+      <point x="391.1320754716981" y="742.433962264151"/>
+      <point x="365.0566037735849" y="755.4150943396227"/>
+      <point x="324.9622641509434" y="755.4150943396227" type="curve" smooth="yes"/>
+      <point x="305.811320754717" y="755.4150943396227"/>
+      <point x="292.9056603773585" y="753.4150943396227"/>
+      <point x="275.0188679245283" y="747.8301886792453" type="curve"/>
+      <point x="275.0188679245283" y="616.8301886792453"/>
+      <point x="258.4339622641509" y="540.6603773584906"/>
+      <point x="208.81132075471697" y="450.47169811320754" type="curve"/>
+      <point x="228.03773584905662" y="438.7358490566038"/>
+      <point x="247.41509433962264" y="433.66037735849056"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>

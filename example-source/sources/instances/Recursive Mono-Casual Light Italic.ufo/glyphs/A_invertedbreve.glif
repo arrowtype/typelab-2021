@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ainvertedbreve" format="2">
+  <advance width="600"/>
+  <unicode hex="0202"/>
+  <outline>
+    <contour>
+      <point x="308.5494605425" y="795" type="curve"/>
+      <point x="338.5494605425" y="856"/>
+      <point x="373.5494605425" y="875"/>
+      <point x="454.5494605425" y="881" type="curve"/>
+      <point x="530.5494605425" y="882"/>
+      <point x="560.5494605425" y="851"/>
+      <point x="565.5494605425" y="794" type="curve"/>
+      <point x="576.5494605425" y="795"/>
+      <point x="589.5494605425" y="797"/>
+      <point x="597.5494605425" y="804" type="curve" smooth="yes"/>
+      <point x="603.5494605425" y="809"/>
+      <point x="604.5494605425" y="816"/>
+      <point x="602.5494605425" y="828" type="curve" smooth="yes"/>
+      <point x="591.5494605425" y="891"/>
+      <point x="536.5494605425" y="923"/>
+      <point x="467.5494605425" y="923" type="curve" smooth="yes"/>
+      <point x="459.5494605425" y="923" type="line" smooth="yes"/>
+      <point x="378.5494605425" y="923"/>
+      <point x="313.5494605425" y="894"/>
+      <point x="276.5494605425" y="828" type="curve" smooth="yes"/>
+      <point x="269.5494605425" y="816"/>
+      <point x="269.5494605425" y="808"/>
+      <point x="274.5494605425" y="803" type="curve" smooth="yes"/>
+      <point x="281.5494605425" y="796"/>
+      <point x="293.5494605425" y="795"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

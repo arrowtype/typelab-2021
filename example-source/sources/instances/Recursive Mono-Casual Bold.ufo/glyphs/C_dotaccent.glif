@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="010A"/>
+  <outline>
+    <contour>
+      <point x="216.10849056603774" y="913.0518867924528" type="curve"/>
+      <point x="216.10849056603774" y="857.6367924528302" type="line" smooth="yes"/>
+      <point x="216.10849056603774" y="808.316037735849"/>
+      <point x="261.57547169811323" y="777.3867924528302"/>
+      <point x="325.87264150943395" y="777.3867924528302" type="curve" smooth="yes"/>
+      <point x="354.9481132075472" y="777.3867924528302"/>
+      <point x="382.87735849056605" y="782.6556603773585"/>
+      <point x="405.39150943396226" y="792.3396226415094" type="curve"/>
+      <point x="405.39150943396226" y="861.4150943396227" type="line" smooth="yes"/>
+      <point x="405.39150943396226" y="910.7358490566038"/>
+      <point x="364.33962264150944" y="928.0047169811321"/>
+      <point x="305.87264150943395" y="928.0047169811321" type="curve" smooth="yes"/>
+      <point x="274.2358490566038" y="928.0047169811321"/>
+      <point x="238.62264150943395" y="921.8820754716982"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0133"/>
+  <outline>
+    <contour>
+      <point x="270.6792452830188" y="648.9811320754717" type="curve"/>
+      <point x="278.75471698113205" y="681.7924528301886" type="line" smooth="yes"/>
+      <point x="292.32075471698107" y="736.1509433962265"/>
+      <point x="269.6981132075472" y="760.0566037735849"/>
+      <point x="227.32075471698113" y="760.0566037735849" type="curve" smooth="yes"/>
+      <point x="210.75471698113208" y="760.0566037735849"/>
+      <point x="192.03773584905662" y="758.6415094339623"/>
+      <point x="176.56603773584908" y="755.811320754717" type="curve"/>
+      <point x="165.07547169811323" y="712.9245283018868" type="line" smooth="yes"/>
+      <point x="151.33962264150944" y="661.4716981132076"/>
+      <point x="178.54716981132074" y="644.7358490566038"/>
+      <point x="220.3396226415094" y="644.7358490566038" type="curve" smooth="yes"/>
+      <point x="236.9056603773585" y="644.7358490566038"/>
+      <point x="255.2075471698113" y="646.1509433962265"/>
+    </contour>
+    <contour>
+      <point x="579.7547169811321" y="648.9811320754717" type="curve"/>
+      <point x="587.8301886792453" y="681.7924528301886" type="line" smooth="yes"/>
+      <point x="601.3962264150944" y="736.1509433962265"/>
+      <point x="577.1132075471698" y="760.0566037735849"/>
+      <point x="533.0754716981132" y="760.0566037735849" type="curve" smooth="yes"/>
+      <point x="516.5094339622641" y="760.0566037735849"/>
+      <point x="497.79245283018867" y="758.6415094339623"/>
+      <point x="482.3207547169811" y="755.811320754717" type="curve"/>
+      <point x="470.8301886792453" y="712.9245283018868" type="line" smooth="yes"/>
+      <point x="457.09433962264154" y="661.4716981132076"/>
+      <point x="485.9622641509434" y="644.7358490566038"/>
+      <point x="529.4150943396226" y="644.7358490566038" type="curve" smooth="yes"/>
+      <point x="545.9811320754717" y="644.7358490566038"/>
+      <point x="564.2830188679245" y="646.1509433962265"/>
+    </contour>
+    <component base="dotlessij"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>

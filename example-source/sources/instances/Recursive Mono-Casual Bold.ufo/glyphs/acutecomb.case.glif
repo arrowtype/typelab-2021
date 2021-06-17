@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="0.0" y="711.8537735849056" name="_top"/>
+  <anchor x="0.0" y="707.2924528301887" name="_dot"/>
+  <anchor x="-180.00943396226415" y="859.9528301886793" name="dot"/>
+  <outline>
+    <contour>
+      <point x="46.75" y="932.8301886792453" type="curve"/>
+      <point x="26.62735849056604" y="870.0235849056604"/>
+      <point x="-13.10377358490566" y="823.6084905660377"/>
+      <point x="-74.54245283018868" y="776.6320754716982" type="curve"/>
+      <point x="-46.759433962264154" y="765.0707547169811"/>
+      <point x="-22.952830188679243" y="761.3632075471698"/>
+      <point x="6.537735849056604" y="761.3632075471698" type="curve" smooth="yes"/>
+      <point x="39.589622641509436" y="761.3632075471698"/>
+      <point x="58.7122641509434" y="763.6556603773585"/>
+      <point x="81.25" y="776.6320754716982" type="curve" smooth="yes"/>
+      <point x="123.98113207547169" y="801.6320754716982"/>
+      <point x="152.73584905660377" y="830.5330188679245"/>
+      <point x="169.4433962264151" y="876.2169811320755" type="curve" smooth="yes"/>
+      <point x="176.00471698113208" y="895.4622641509434"/>
+      <point x="173.1509433962264" y="912.438679245283"/>
+      <point x="155.02830188679246" y="919.1462264150944" type="curve" smooth="yes"/>
+      <point x="126.80660377358491" y="928.4150943396227"/>
+      <point x="94.90094339622641" y="932.8301886792453"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>

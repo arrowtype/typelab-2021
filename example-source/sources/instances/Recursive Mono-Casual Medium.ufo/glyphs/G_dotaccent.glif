@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="238.2688679245283" y="905.1556603773585" type="curve"/>
+      <point x="238.2688679245283" y="850.9103773584906" type="line" smooth="yes"/>
+      <point x="238.2688679245283" y="810.9481132075472"/>
+      <point x="274.6698113207547" y="786.1603773584906"/>
+      <point x="327.561320754717" y="786.1603773584906" type="curve" smooth="yes"/>
+      <point x="350.7877358490566" y="786.1603773584906"/>
+      <point x="372.57547169811323" y="789.9669811320755"/>
+      <point x="390.1179245283019" y="797.0188679245283" type="curve"/>
+      <point x="390.1179245283019" y="860.2452830188679" type="line" smooth="yes"/>
+      <point x="390.1179245283019" y="900.2075471698113"/>
+      <point x="356.9622641509434" y="916.0141509433962"/>
+      <point x="307.561320754717" y="916.0141509433962" type="curve" smooth="yes"/>
+      <point x="282.6509433962264" y="916.0141509433962"/>
+      <point x="255.81132075471697" y="911.6462264150944"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

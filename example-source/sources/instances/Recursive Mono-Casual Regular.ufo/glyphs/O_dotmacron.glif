@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotmacron" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0230"/>
+  <outline>
+    <contour>
+      <point x="233.43396226415095" y="901.622641509434" type="curve"/>
+      <point x="233.43396226415095" y="847.9622641509434" type="line" smooth="yes"/>
+      <point x="233.43396226415095" y="812.6792452830189"/>
+      <point x="265.3018867924528" y="790.9622641509434"/>
+      <point x="312.49056603773585" y="790.9622641509434" type="curve" smooth="yes"/>
+      <point x="332.79245283018867" y="790.9622641509434"/>
+      <point x="351.50943396226415" y="794.0377358490566"/>
+      <point x="366.5660377358491" y="799.7735849056604" type="curve"/>
+      <point x="366.5660377358491" y="860.0754716981132" type="line" smooth="yes"/>
+      <point x="366.5660377358491" y="895.3584905660377"/>
+      <point x="337.35849056603774" y="910.433962264151"/>
+      <point x="292.49056603773585" y="910.433962264151" type="curve" smooth="yes"/>
+      <point x="270.9433962264151" y="910.433962264151"/>
+      <point x="248.49056603773585" y="906.9433962264151"/>
+    </contour>
+    <component base="O"/>
+    <component base="macroncomb.case" xOffset="300.0" yOffset="156.8490566037736"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

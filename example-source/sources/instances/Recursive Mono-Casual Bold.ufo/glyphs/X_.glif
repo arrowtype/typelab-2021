@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0058"/>
+  <anchor x="300.0" y="711.0" name="top"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="517.9245283018868" y="-11.70754716981132" type="curve" smooth="yes"/>
+      <point x="540.7547169811321" y="-11.70754716981132"/>
+      <point x="564.9764150943396" y="-7.85377358490566"/>
+      <point x="581.5141509433962" y="0.0" type="curve"/>
+      <point x="508.35392000914857" y="80.65581033010471"/>
+      <point x="432.0506826016024" y="199.47146573411132"/>
+      <point x="363.6179245283019" y="322.6839622641509" type="curve" smooth="yes"/>
+      <point x="327.9811320754717" y="390.9339622641509" type="line"/>
+      <point x="277.00585132035707" y="488.6063238882868"/>
+      <point x="246.99056603773585" y="553.4811320754717"/>
+      <point x="216.4056603773585" y="637.4811320754717" type="curve" smooth="yes"/>
+      <point x="197.5990566037736" y="691.7547169811321"/>
+      <point x="158.57075471698113" y="707.7075471698113"/>
+      <point x="88.0754716981132" y="707.7075471698113" type="curve" smooth="yes"/>
+      <point x="64.83018867924528" y="707.7075471698113"/>
+      <point x="43.43867924528302" y="705.7075471698113"/>
+      <point x="19.632075471698116" y="700.0" type="curve"/>
+      <point x="66.9245283018868" y="584.4150943396227"/>
+      <point x="141.38095974989906" y="433.2654116841797"/>
+      <point x="221.38679245283018" y="293.75471698113205" type="curve" smooth="yes"/>
+      <point x="256.58490566037733" y="232.06603773584905" type="line"/>
+      <point x="301.5557217125524" y="157.64457934190943"/>
+      <point x="346.72169811320754" y="89.32075471698113"/>
+      <point x="388.37735849056605" y="36.32075471698113" type="curve" smooth="yes"/>
+      <point x="415.0377358490566" y="0.5613207547169812"/>
+      <point x="447.25943396226415" y="-11.70754716981132"/>
+    </contour>
+    <contour>
+      <point x="472.9198113207547" y="707.561320754717" type="curve" smooth="yes"/>
+      <point x="451.9669811320755" y="707.561320754717"/>
+      <point x="437.99056603773585" y="705.7075471698113"/>
+      <point x="421.45283018867923" y="700.2924528301887" type="curve"/>
+      <point x="395.4811320754717" y="575.2452830188679"/>
+      <point x="367.50943396226415" y="486.6367924528302"/>
+      <point x="325.0047169811321" y="410.4481132075472" type="curve"/>
+      <point x="276.97641509433964" y="410.4481132075472" type="line"/>
+      <point x="354.37264150943395" y="283.92452830188677" type="line"/>
+      <point x="458.9811320754717" y="394.8490566037736"/>
+      <point x="518.1509433962265" y="500.5330188679245"/>
+      <point x="552.122641509434" y="606.6981132075472" type="curve" smooth="yes"/>
+      <point x="577.0518867924528" y="689.5849056603773"/>
+      <point x="529.3632075471698" y="707.561320754717"/>
+    </contour>
+    <contour>
+      <point x="123.88679245283019" y="-8.29245283018868" type="curve" smooth="yes"/>
+      <point x="144.27830188679246" y="-8.29245283018868"/>
+      <point x="168.64622641509433" y="-5.2924528301886795"/>
+      <point x="184.74528301886792" y="-0.4386792452830188" type="curve"/>
+      <point x="200.27830188679246" y="78.21698113207547"/>
+      <point x="226.00471698113208" y="153.45754716981133"/>
+      <point x="260.70754716981133" y="215.6745283018868" type="curve"/>
+      <point x="297.9056603773585" y="215.6745283018868" type="line"/>
+      <point x="231.21698113207546" y="337.95283018867923" type="line"/>
+      <point x="134.0943396226415" y="238.83018867924528"/>
+      <point x="74.90094339622641" y="156.1745283018868"/>
+      <point x="42.97641509433962" y="83.61792452830188" type="curve" smooth="yes"/>
+      <point x="14.766509433962264" y="19.221698113207548"/>
+      <point x="63.51603773584906" y="-8.29245283018868"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.arrowtype.glyphMarkStatus</key>
+      <string>workInProgress</string>
+      <key>com.arrowtype.numberOfIterations</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>public.markColor</key>
+      <string>0,0.25,1,0.1</string>
+    </dict>
+  </lib>
+</glyph>

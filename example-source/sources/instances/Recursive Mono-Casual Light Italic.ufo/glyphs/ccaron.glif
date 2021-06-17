@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
+  <advance width="600"/>
+  <unicode hex="010D"/>
+  <outline>
+    <contour>
+      <point x="432" y="641" type="curve"/>
+      <point x="496" y="665"/>
+      <point x="558" y="705"/>
+      <point x="608" y="751" type="curve" smooth="yes"/>
+      <point x="634" y="775"/>
+      <point x="645" y="791"/>
+      <point x="649" y="804" type="curve" smooth="yes"/>
+      <point x="652" y="815"/>
+      <point x="648" y="822"/>
+      <point x="628" y="822" type="curve" smooth="yes"/>
+      <point x="618" y="822" type="line"/>
+      <point x="573" y="770"/>
+      <point x="499" y="713"/>
+      <point x="404" y="676" type="curve"/>
+      <point x="462" y="688" type="line"/>
+      <point x="396" y="688" type="line"/>
+      <point x="452" y="672" type="line"/>
+      <point x="384" y="712"/>
+      <point x="354" y="756"/>
+      <point x="329" y="795" type="curve" smooth="yes"/>
+      <point x="316" y="815"/>
+      <point x="311" y="819"/>
+      <point x="297" y="819" type="curve" smooth="yes"/>
+      <point x="289" y="819"/>
+      <point x="280" y="816"/>
+      <point x="272" y="810" type="curve"/>
+      <point x="292" y="754"/>
+      <point x="341" y="693"/>
+      <point x="375" y="666" type="curve" smooth="yes"/>
+      <point x="404" y="642"/>
+      <point x="414" y="641"/>
+      <point x="423" y="641" type="curve" smooth="yes"/>
+      <point x="426" y="641"/>
+      <point x="429" y="641"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

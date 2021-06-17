@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlinebelow.italic" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="16.749930337299986" y="-122" type="line"/>
+      <point x="13.749930337299986" y="-127"/>
+      <point x="10.749930337299986" y="-133"/>
+      <point x="8.749930337299986" y="-140" type="curve" smooth="yes"/>
+      <point x="2.749930337299986" y="-162"/>
+      <point x="11.749930337299986" y="-172"/>
+      <point x="32.749930337299986" y="-172" type="curve" smooth="yes"/>
+      <point x="376.7499303373" y="-172" type="line"/>
+      <point x="379.7499303373" y="-168"/>
+      <point x="382.7499303373" y="-163"/>
+      <point x="385.7499303373" y="-153" type="curve" smooth="yes"/>
+      <point x="391.7499303373" y="-134"/>
+      <point x="387.7499303373" y="-122"/>
+      <point x="369.7499303373" y="-122" type="curve" smooth="yes"/>
+    </contour>
+    <component base="n.italic"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

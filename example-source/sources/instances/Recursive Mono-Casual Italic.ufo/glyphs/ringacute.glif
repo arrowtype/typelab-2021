@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute" format="2">
+  <anchor x="68.9245283018868" y="541.6792452830189" name="_top"/>
+  <outline>
+    <component base="ringcomb"/>
+    <component base="acutecomb.case" xOffset="46.660377358490564" yOffset="30.30188679245283"/>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="600.0"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="291.0" y="-143.8679245283019" type="curve" smooth="yes"/>
+      <point x="241.56132075471697" y="-143.8679245283019"/>
+      <point x="206.38679245283018" y="-136.8679245283019"/>
+      <point x="163.50943396226415" y="-112.23584905660377" type="curve"/>
+      <point x="157.50943396226415" y="-112.23584905660377" type="line"/>
+      <point x="155.38679245283018" y="-121.16509433962264"/>
+      <point x="154.38679245283018" y="-131.8490566037736"/>
+      <point x="154.38679245283018" y="-142.77830188679246" type="curve" smooth="yes"/>
+      <point x="154.38679245283018" y="-173.6179245283019"/>
+      <point x="159.6320754716981" y="-200.89622641509433"/>
+      <point x="176.1745283018868" y="-217.43867924528303" type="curve" smooth="yes"/>
+      <point x="197.54245283018867" y="-238.8066037735849"/>
+      <point x="233.31603773584905" y="-250.0"/>
+      <point x="296.17452830188677" y="-250.0" type="curve" smooth="yes"/>
+      <point x="452.77479438799907" y="-250.0"/>
+      <point x="535.1556603773585" y="-135.1745283018868"/>
+      <point x="535.1556603773585" y="-3.070754716981132" type="curve"/>
+      <point x="523.9292452830189" y="21.10377358490566"/>
+      <point x="495.0337921435255" y="34.59433962264151"/>
+      <point x="438.4433962264151" y="34.59433962264151" type="curve"/>
+      <point x="438.4433962264151" y="-95.19811320754717"/>
+      <point x="385.6179245283019" y="-143.8679245283019"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

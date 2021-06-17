@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="348.09433962264154" y="216.74528301886792" type="curve"/>
+      <point x="374.70754716981133" y="321.6132075471698" type="line" smooth="yes"/>
+      <point x="386.9528301886793" y="370.3490566037736"/>
+      <point x="358.1698113207547" y="396.42452830188677"/>
+      <point x="293.4811320754717" y="396.42452830188677" type="curve" smooth="yes"/>
+      <point x="263.6981132075472" y="396.42452830188677"/>
+      <point x="231.83962264150944" y="391.42452830188677"/>
+      <point x="206.93396226415095" y="382.4245283018868" type="curve"/>
+      <point x="180.32075471698113" y="278.97169811320754" type="line" smooth="yes"/>
+      <point x="168.07547169811323" y="230.23584905660377"/>
+      <point x="198.27358490566039" y="204.8679245283019"/>
+      <point x="268.62264150943395" y="204.8679245283019" type="curve" smooth="yes"/>
+      <point x="296.28301886792457" y="204.8679245283019"/>
+      <point x="328.8490566037736" y="209.8679245283019"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

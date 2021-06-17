@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacutedotaccent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E64"/>
+  <outline>
+    <contour>
+      <point x="140.24528301886792" y="917.8867924528302" type="curve"/>
+      <point x="140.24528301886792" y="863.0566037735849" type="line" smooth="yes"/>
+      <point x="140.24528301886792" y="818.4150943396227"/>
+      <point x="181.17924528301887" y="790.5566037735849"/>
+      <point x="239.77358490566039" y="790.5566037735849" type="curve" smooth="yes"/>
+      <point x="265.92452830188677" y="790.5566037735849"/>
+      <point x="290.7830188679245" y="795.0943396226415"/>
+      <point x="310.811320754717" y="803.4622641509434" type="curve"/>
+      <point x="310.811320754717" y="869.6132075471698" type="line" smooth="yes"/>
+      <point x="310.811320754717" y="914.2547169811321"/>
+      <point x="273.70754716981133" y="930.7924528301887"/>
+      <point x="219.77358490566039" y="930.7924528301887" type="curve" smooth="yes"/>
+      <point x="191.5" y="930.7924528301887"/>
+      <point x="160.27358490566039" y="925.5471698113207"/>
+    </contour>
+    <component base="S"/>
+    <component base="acutecomb.case" xOffset="393.54716981132077" yOffset="3.1226415094339623"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

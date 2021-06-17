@@ -1,0 +1,1 @@
+These fonts are used for demo purposes only. Please visit github.com/arrowtype/recursive to find official Recursive fonts.

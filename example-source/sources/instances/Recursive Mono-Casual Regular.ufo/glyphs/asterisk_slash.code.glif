@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk_slash.code" format="2">
+  <advance width="1200.0"/>
+  <anchor x="600.0" y="0.0" name="caret_1"/>
+  <outline>
+    <component base="asterisk" xOffset="85.84905660377359"/>
+    <component base="slash" xOffset="531.8679245283018"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,1,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

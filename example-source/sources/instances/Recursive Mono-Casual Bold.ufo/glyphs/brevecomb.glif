@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="0.0" y="546.9528301886793" name="_top"/>
+  <anchor x="0.0" y="758.1509433962265" name="top"/>
+  <anchor x="0.0" y="819.0754716981132" name="hook"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="732.566037735849" type="curve"/>
+      <point x="-53.38679245283019" y="736.0047169811321"/>
+      <point x="-88.24056603773585" y="751.3679245283018"/>
+      <point x="-105.53301886792453" y="806.683962264151" type="curve"/>
+      <point x="-128.77830188679246" y="805.5377358490566"/>
+      <point x="-151.7311320754717" y="799.8301886792453"/>
+      <point x="-170.68396226415095" y="787.7075471698113" type="curve" smooth="yes"/>
+      <point x="-181.51415094339623" y="780.2924528301887"/>
+      <point x="-183.3679245283019" y="766.4622641509434"/>
+      <point x="-178.3679245283019" y="751.7547169811321" type="curve" smooth="yes"/>
+      <point x="-149.95283018867926" y="672.8018867924528"/>
+      <point x="-91.68396226415095" y="630.3867924528302"/>
+      <point x="-4.0" y="630.3867924528302" type="curve" smooth="yes"/>
+      <point x="4.0" y="630.3867924528302" type="line" smooth="yes"/>
+      <point x="91.68396226415095" y="630.3867924528302"/>
+      <point x="149.95283018867926" y="672.8018867924528"/>
+      <point x="178.3679245283019" y="751.7547169811321" type="curve" smooth="yes"/>
+      <point x="183.3679245283019" y="766.4622641509434"/>
+      <point x="181.51415094339623" y="780.2924528301887"/>
+      <point x="170.68396226415095" y="787.7075471698113" type="curve" smooth="yes"/>
+      <point x="151.7311320754717" y="799.8301886792453"/>
+      <point x="128.77830188679246" y="805.5377358490566"/>
+      <point x="105.53301886792453" y="806.683962264151" type="curve"/>
+      <point x="88.24056603773585" y="751.3679245283018"/>
+      <point x="53.38679245283019" y="736.0047169811321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>

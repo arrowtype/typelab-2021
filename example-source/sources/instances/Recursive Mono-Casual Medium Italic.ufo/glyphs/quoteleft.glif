@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="451.8962264150943" y="755.0" type="curve" smooth="yes"/>
+      <point x="427.3018867924528" y="755.0"/>
+      <point x="413.68867924528297" y="750.1933962264151"/>
+      <point x="398.39150943396226" y="737.0188679245283" type="curve" smooth="yes"/>
+      <point x="343.933962264151" y="689.2452830188679"/>
+      <point x="285.4245283018868" y="593.2264150943396"/>
+      <point x="263.7924528301887" y="507.2594339622642" type="curve" smooth="yes"/>
+      <point x="251.42452830188682" y="456.7877358490566"/>
+      <point x="270.59905660377365" y="437.0518867924529"/>
+      <point x="321.8584905660377" y="437.0518867924529" type="curve" smooth="yes"/>
+      <point x="344.7169811320755" y="437.0518867924529"/>
+      <point x="364.1367924528302" y="440.1745283018868"/>
+      <point x="380.188679245283" y="446.17452830188677" type="curve"/>
+      <point x="409.55660377358487" y="561.877358490566"/>
+      <point x="453.5566037735849" y="651.3160377358491"/>
+      <point x="526.8915094339623" y="736.1415094339623" type="curve"/>
+      <point x="504.47169811320754" y="748.7547169811321"/>
+      <point x="478.0" y="755.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>public.markColor</key>
+      <string>0.5133,1,0.9066,1</string>
+    </dict>
+  </lib>
+</glyph>

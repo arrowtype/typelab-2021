@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_numbersign_numbersign.code" format="2">
+  <advance width="1800.0"/>
+  <anchor x="600.0" y="0.0" name="caret_1"/>
+  <anchor x="1200.0" y="0.0" name="caret_2"/>
+  <outline>
+    <contour>
+      <point x="528.4858490566038" y="434.9150943396226" type="line"/>
+      <point x="853.3349056603774" y="434.9150943396226" type="line"/>
+      <point x="853.3349056603774" y="528.066037735849" type="line"/>
+      <point x="528.4858490566038" y="528.066037735849" type="line"/>
+    </contour>
+    <contour>
+      <point x="407.25943396226415" y="173.68867924528303" type="line"/>
+      <point x="747.7216981132076" y="173.68867924528303" type="line"/>
+      <point x="747.7216981132076" y="266.83962264150944" type="line"/>
+      <point x="407.25943396226415" y="266.83962264150944" type="line"/>
+    </contour>
+    <contour>
+      <point x="1122.872641509434" y="434.9150943396226" type="line"/>
+      <point x="1442.1084905660377" y="434.9150943396226" type="line"/>
+      <point x="1442.1084905660377" y="528.066037735849" type="line"/>
+      <point x="1122.872641509434" y="528.066037735849" type="line"/>
+    </contour>
+    <contour>
+      <point x="990.4198113207548" y="173.68867924528303" type="line"/>
+      <point x="1336.495283018868" y="173.68867924528303" type="line"/>
+      <point x="1336.495283018868" y="266.83962264150944" type="line"/>
+      <point x="990.4198113207548" y="266.83962264150944" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="11.226415094339623"/>
+    <component base="numbersign" xOffset="600.0"/>
+    <component base="numbersign" xOffset="1188.7735849056603"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,1,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

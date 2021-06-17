@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelow" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E36"/>
+  <anchor x="248.01583164662074" y="711.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="150.877288827866" y="-88.2122641509434" type="curve"/>
+      <point x="143.31596807314904" y="-118.01886792452831" type="line" smooth="yes"/>
+      <point x="127.70276052597922" y="-179.91037735849056"/>
+      <point x="157.8584209033377" y="-206.08490566037736"/>
+      <point x="210.18860958258298" y="-206.08490566037736" type="curve" smooth="yes"/>
+      <point x="230.60842090333773" y="-206.08490566037736"/>
+      <point x="247.90559071465847" y="-203.9622641509434"/>
+      <point x="264.32540203541316" y="-196.91037735849056" type="curve"/>
+      <point x="271.0093642995641" y="-170.05188679245282" type="line" smooth="yes"/>
+      <point x="284.815968073149" y="-114.58018867924528"/>
+      <point x="258.2216284505075" y="-81.84433962264151"/>
+      <point x="207.1367227901302" y="-81.84433962264151" type="curve" smooth="yes"/>
+      <point x="186.71691146937545" y="-81.84433962264151"/>
+      <point x="167.85842090333773" y="-83.96698113207547"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

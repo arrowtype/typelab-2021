@@ -68,7 +68,7 @@ pip install -r requirements.txt
 And finally, give the build scripts permission to run/execute:
 
 ```bash
-chmod +x example/*.sh
+chmod +x example-source/*.sh
 ```
 
 ### Build
@@ -88,7 +88,7 @@ You can run a shell script by simply entering the path to it in your command lin
 To run the example variable font build, run this:
 
 ```bash
-example/build.sh
+example-source/build.sh
 ```
 
 #### Static Fonts
@@ -96,7 +96,7 @@ example/build.sh
 To run the example static font build, run this:
 
 ```bash
-example/build-statics.sh
+example-source/build-statics.sh
 ```
 
 ## Extend!
@@ -105,4 +105,3 @@ example/build-statics.sh
 - It is extremely useful to use virtual environments to avoid conflicts between different font projects. A technique I like for this is described in [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54), by Matthew Sarmiento.
 - To check out a much more complex font build, take a look at the full [Recursive](https://github.com/arrowtype/recursive) project. In particular, the [mastering](https://github.com/arrowtype/recursive/tree/728ced98fe7acc4756388fc937af43e61012d838/mastering) scripts, by Ben Kiel, show a way to run a font build that mixes AFDKO and FontMake, entirely in Python. Then, the [make-release](https://github.com/arrowtype/recursive/blob/728ced98fe7acc4756388fc937af43e61012d838/src/build-scripts/make-release/00-prep-release.sh) scripts, by me (Stephen Nixon) use a blend of Shell & Python scripts to package the built fonts in a specific way for GitHub releases. Most font builds don’t need to be this complex, but there are a lot of useful techniques employed in here.
 - You can learn a lot by just starting to use tools for font builds. Check out [FontMake](https://github.com/googlefonts/fontmake), [FontBakery](https://github.com/googlefonts/fontbakery/), [woff2](https://github.com/google/woff2), [GF Tools](https://github.com/googlefonts/gftools), [FontTools](https://github.com/fonttools/fonttools), and [DrawBot](https://www.drawbot.com/).
-

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydot" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E8E"/>
+  <outline>
+    <contour>
+      <point x="384.50593723290376" y="911.4528301886793" type="curve"/>
+      <point x="374.4540504404509" y="874.6132075471698" type="line" smooth="yes"/>
+      <point x="358.40216364799807" y="814.4575471698113"/>
+      <point x="380.9446164781868" y="787.8443396226415"/>
+      <point x="442.8172579876208" y="787.8443396226415" type="curve" smooth="yes"/>
+      <point x="462.6757485536585" y="787.8443396226415"/>
+      <point x="486.58612591214904" y="789.4056603773585"/>
+      <point x="506.3738617612056" y="792.5283018867925" type="curve"/>
+      <point x="516.3031070442245" y="832.2452830188679" type="line" smooth="yes"/>
+      <point x="529.2323523272433" y="885.0849056603773"/>
+      <point x="506.193044151124" y="916.5754716981132"/>
+      <point x="448.18518251592263" y="916.5754716981132" type="curve" smooth="yes"/>
+      <point x="428.39685704422453" y="916.5754716981132"/>
+      <point x="404.8327972404557" y="915.288675124542"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

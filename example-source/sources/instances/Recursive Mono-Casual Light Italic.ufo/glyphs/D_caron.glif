@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron" format="2">
+  <advance width="600"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="430.79953020519997" y="790" type="curve"/>
+      <point x="493.79953020519997" y="810"/>
+      <point x="552.7995302052" y="848"/>
+      <point x="602.7995302052" y="890" type="curve" smooth="yes"/>
+      <point x="630.7995302052" y="913"/>
+      <point x="641.7995302052" y="930"/>
+      <point x="643.7995302052" y="937" type="curve" smooth="yes"/>
+      <point x="645.7995302052" y="947"/>
+      <point x="641.7995302052" y="953"/>
+      <point x="621.7995302052" y="953" type="curve" smooth="yes"/>
+      <point x="609.7995302052" y="953" type="line"/>
+      <point x="566.7995302052" y="906"/>
+      <point x="499.79953020519997" y="856"/>
+      <point x="402.79953020519997" y="821" type="curve"/>
+      <point x="463.79953020519997" y="833" type="line"/>
+      <point x="441.79953020519997" y="833"/>
+      <point x="419.79953020519997" y="833"/>
+      <point x="397.79953020519997" y="833" type="curve"/>
+      <point x="453.79953020519997" y="820" type="line"/>
+      <point x="387.79953020519997" y="851"/>
+      <point x="346.79953020519997" y="887"/>
+      <point x="319.79953020519997" y="927" type="curve" smooth="yes"/>
+      <point x="307.79953020519997" y="946"/>
+      <point x="302.79953020519997" y="950"/>
+      <point x="290.79953020519997" y="950" type="curve" smooth="yes"/>
+      <point x="278.79953020519997" y="950"/>
+      <point x="275.79953020519997" y="948"/>
+      <point x="265.79953020519997" y="942" type="curve"/>
+      <point x="287.79953020519997" y="883"/>
+      <point x="337.79953020519997" y="837"/>
+      <point x="371.79953020519997" y="812" type="curve" smooth="yes"/>
+      <point x="401.79953020519997" y="791"/>
+      <point x="412.79953020519997" y="790"/>
+      <point x="421.79953020519997" y="790" type="curve" smooth="yes"/>
+      <point x="424.79953020519997" y="790"/>
+      <point x="427.79953020519997" y="790"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

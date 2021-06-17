@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="0.0" y="546.9528301886793" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-48.45754716981132" y="811.8537735849056" type="curve"/>
+      <point x="-89.9245283018868" y="812.7075471698113"/>
+      <point x="-125.24528301886792" y="807.438679245283"/>
+      <point x="-148.19811320754718" y="795.6084905660377" type="curve" smooth="yes"/>
+      <point x="-166.32075471698113" y="786.1933962264151"/>
+      <point x="-170.8820754716981" y="768.0707547169811"/>
+      <point x="-166.02830188679246" y="749.3867924528302" type="curve" smooth="yes"/>
+      <point x="-152.73584905660377" y="698.4103773584906"/>
+      <point x="-119.27358490566039" y="658.9481132075472"/>
+      <point x="-82.22641509433961" y="636.0707547169811" type="curve" smooth="yes"/>
+      <point x="-58.68867924528302" y="621.0943396226415"/>
+      <point x="-35.15094339622642" y="615.3867924528302"/>
+      <point x="-2.8066037735849054" y="615.3867924528302" type="curve" smooth="yes"/>
+      <point x="22.97641509433962" y="615.3867924528302"/>
+      <point x="44.92924528301887" y="620.8018867924528"/>
+      <point x="65.4433962264151" y="632.9245283018868" type="curve"/>
+      <point x="3.004716981132077" y="688.9009433962265"/>
+      <point x="-28.33490566037736" y="735.7783018867924"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>

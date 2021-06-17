@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E24"/>
+  <outline>
+    <contour>
+      <point x="142.89622641509433" y="-82.07075471698114" type="curve"/>
+      <point x="135.0424528301887" y="-113.33962264150942" type="line" smooth="yes"/>
+      <point x="116.50471698113208" y="-186.6367924528302"/>
+      <point x="154.55660377358492" y="-216.02830188679246"/>
+      <point x="218.0" y="-216.02830188679246" type="curve" smooth="yes"/>
+      <point x="242.8066037735849" y="-216.02830188679246"/>
+      <point x="263.9056603773585" y="-213.32075471698113"/>
+      <point x="284.7122641509434" y="-203.63679245283018" type="curve"/>
+      <point x="292.27358490566036" y="-172.68396226415095" type="line" smooth="yes"/>
+      <point x="307.54245283018867" y="-110.1933962264151"/>
+      <point x="273.3443396226415" y="-73.94811320754717"/>
+      <point x="212.31603773584902" y="-73.94811320754717" type="curve" smooth="yes"/>
+      <point x="187.50943396226413" y="-73.94811320754717"/>
+      <point x="164.55660377358492" y="-76.6556603773585"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="600.0"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="199.54245283018867" y="-143.8679245283019" type="curve" smooth="yes"/>
+      <point x="144.41981132075472" y="-143.8679245283019"/>
+      <point x="115.49056603773585" y="-136.8679245283019"/>
+      <point x="80.36792452830188" y="-112.23584905660377" type="curve"/>
+      <point x="74.36792452830188" y="-112.23584905660377" type="line"/>
+      <point x="69.24528301886791" y="-121.60377358490565"/>
+      <point x="61.75471698113206" y="-134.9009433962264"/>
+      <point x="57.07075471698112" y="-151.19811320754718" type="curve" smooth="yes"/>
+      <point x="49.702830188679236" y="-177.66981132075472"/>
+      <point x="53.8254716981132" y="-202.70283018867923"/>
+      <point x="69.68396226415095" y="-220.0" type="curve" smooth="yes"/>
+      <point x="86.05188679245282" y="-239.24528301886792"/>
+      <point x="124.0" y="-250.0"/>
+      <point x="175.87735849056602" y="-250.0" type="curve" smooth="yes"/>
+      <point x="332.561320754717" y="-250.0"/>
+      <point x="434.98479653723155" y="-172.91450018680095"/>
+      <point x="476.9811320754717" y="0.0" type="curve"/>
+      <point x="467.49056603773585" y="21.10377358490566"/>
+      <point x="445.50943396226415" y="34.59433962264151"/>
+      <point x="389.0754716981132" y="34.59433962264151" type="curve"/>
+      <point x="359.8820754716981" y="-92.39150943396226"/>
+      <point x="298.3537735849057" y="-143.8679245283019"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

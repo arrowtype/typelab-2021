@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="214.7169811320755" y="909.811320754717" type="curve"/>
+      <point x="214.7169811320755" y="854.9811320754717" type="line" smooth="yes"/>
+      <point x="214.7169811320755" y="810.3396226415094"/>
+      <point x="255.6509433962264" y="782.4811320754717"/>
+      <point x="314.24528301886795" y="782.4811320754717" type="curve" smooth="yes"/>
+      <point x="340.39622641509436" y="782.4811320754717"/>
+      <point x="365.25471698113205" y="787.0188679245283"/>
+      <point x="385.2830188679245" y="795.3867924528302" type="curve"/>
+      <point x="385.2830188679245" y="861.5377358490566" type="line" smooth="yes"/>
+      <point x="385.2830188679245" y="906.1792452830189"/>
+      <point x="348.1792452830189" y="922.7169811320755"/>
+      <point x="294.24528301886795" y="922.7169811320755" type="curve" smooth="yes"/>
+      <point x="265.97169811320754" y="922.7169811320755"/>
+      <point x="234.74528301886792" y="917.4716981132076"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

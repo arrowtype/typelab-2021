@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotbelow" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E5A"/>
+  <anchor x="407.8480445111377" y="711.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="125.0058860398882" y="-82.07075471698114" type="curve"/>
+      <point x="117.15211245498254" y="-113.33962264150942" type="line" smooth="yes"/>
+      <point x="98.61437660592594" y="-186.6367924528302"/>
+      <point x="136.66626339837876" y="-216.02830188679246"/>
+      <point x="200.1096596247939" y="-216.02830188679246" type="curve" smooth="yes"/>
+      <point x="224.9162633983788" y="-216.02830188679246"/>
+      <point x="246.01532000215232" y="-213.32075471698113"/>
+      <point x="266.8219237757373" y="-203.63679245283018" type="curve"/>
+      <point x="274.38324453045425" y="-172.68396226415095" type="line" smooth="yes"/>
+      <point x="289.65211245498256" y="-110.1933962264151"/>
+      <point x="255.45399924743538" y="-73.94811320754717"/>
+      <point x="194.4256973606429" y="-73.94811320754717" type="curve" smooth="yes"/>
+      <point x="169.61909358705802" y="-73.94811320754717"/>
+      <point x="146.66626339837876" y="-76.6556603773585"/>
+    </contour>
+    <component base="R"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

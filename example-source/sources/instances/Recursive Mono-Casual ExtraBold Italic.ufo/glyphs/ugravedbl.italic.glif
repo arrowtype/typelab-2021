@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ugravedbl.italic" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="326.7883841675" y="814" type="curve"/>
+      <point x="288.7883841675" y="814"/>
+      <point x="248.7883841675" y="809"/>
+      <point x="220.7883841675" y="796" type="curve" smooth="yes"/>
+      <point x="198.7883841675" y="786"/>
+      <point x="188.7883841675" y="767"/>
+      <point x="188.7883841675" y="747" type="curve" smooth="yes"/>
+      <point x="188.7883841675" y="701"/>
+      <point x="211.7883841675" y="657"/>
+      <point x="240.7883841675" y="635" type="curve" smooth="yes"/>
+      <point x="261.7883841675" y="619"/>
+      <point x="285.7883841675" y="613"/>
+      <point x="321.7883841675" y="613" type="curve" smooth="yes"/>
+      <point x="350.7883841675" y="613"/>
+      <point x="369.7883841675" y="617"/>
+      <point x="392.7883841675" y="632" type="curve"/>
+      <point x="345.7883841675" y="689"/>
+      <point x="327.7883841675" y="735"/>
+    </contour>
+    <contour>
+      <point x="506.7883841675" y="814" type="curve"/>
+      <point x="468.7883841675" y="814"/>
+      <point x="428.7883841675" y="809"/>
+      <point x="400.7883841675" y="796" type="curve" smooth="yes"/>
+      <point x="378.7883841675" y="786"/>
+      <point x="368.7883841675" y="767"/>
+      <point x="368.7883841675" y="747" type="curve" smooth="yes"/>
+      <point x="368.7883841675" y="701"/>
+      <point x="391.7883841675" y="657"/>
+      <point x="420.7883841675" y="635" type="curve" smooth="yes"/>
+      <point x="441.7883841675" y="619"/>
+      <point x="465.7883841675" y="613"/>
+      <point x="501.7883841675" y="613" type="curve" smooth="yes"/>
+      <point x="530.7883841675" y="613"/>
+      <point x="549.7883841675" y="617"/>
+      <point x="572.7883841675" y="632" type="curve"/>
+      <point x="525.7883841675" y="689"/>
+      <point x="507.7883841675" y="735"/>
+    </contour>
+    <component base="u.italic"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdotbelow" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E6C"/>
+  <outline>
+    <contour>
+      <point x="222.96226415094338" y="-66.0377358490566" type="curve"/>
+      <point x="222.96226415094338" y="-139.97169811320754" type="line" smooth="yes"/>
+      <point x="222.96226415094338" y="-184.61320754716982"/>
+      <point x="263.188679245283" y="-194.0754716981132"/>
+      <point x="315.41509433962267" y="-194.0754716981132" type="curve" smooth="yes"/>
+      <point x="335.1981132075472" y="-194.0754716981132"/>
+      <point x="359.3490566037736" y="-192.3679245283019"/>
+      <point x="379.37735849056605" y="-188.95283018867926" type="curve"/>
+      <point x="379.37735849056605" y="-115.01886792452831" type="line" smooth="yes"/>
+      <point x="379.37735849056605" y="-70.37735849056604"/>
+      <point x="339.4433962264151" y="-60.91509433962264"/>
+      <point x="286.92452830188677" y="-60.91509433962264" type="curve" smooth="yes"/>
+      <point x="267.14150943396226" y="-60.91509433962264"/>
+      <point x="242.99056603773585" y="-62.62264150943396"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

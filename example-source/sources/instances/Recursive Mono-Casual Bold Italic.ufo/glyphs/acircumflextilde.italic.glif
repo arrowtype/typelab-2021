@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflextilde.italic" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <component base="a.italic"/>
+    <component base="circumflexcomb" xOffset="289.12264150943395" yOffset="2.0"/>
+    <component base="tildecombviet.case" xOffset="298.1462264150943" yOffset="37.679245283018865"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

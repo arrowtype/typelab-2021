@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdot" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1E60"/>
+  <outline>
+    <contour>
+      <point x="411.9127377523698" y="910.8915094339623" type="curve"/>
+      <point x="401.860850959917" y="874.0518867924528" type="line" smooth="yes"/>
+      <point x="385.8089641674642" y="813.8962264150944"/>
+      <point x="408.35141699765285" y="787.2830188679245"/>
+      <point x="470.2240585070868" y="787.2830188679245" type="curve" smooth="yes"/>
+      <point x="490.08254907312454" y="787.2830188679245"/>
+      <point x="513.9929264316152" y="788.8443396226415"/>
+      <point x="533.7806622806717" y="791.9669811320755" type="curve"/>
+      <point x="543.7099075636905" y="831.6839622641509" type="line" smooth="yes"/>
+      <point x="556.6391528467094" y="884.5235849056603"/>
+      <point x="533.5998446705901" y="916.0141509433962"/>
+      <point x="475.5919830353887" y="916.0141509433962" type="curve" smooth="yes"/>
+      <point x="455.8036575636906" y="916.0141509433962"/>
+      <point x="432.2395977599217" y="914.7273543698251"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

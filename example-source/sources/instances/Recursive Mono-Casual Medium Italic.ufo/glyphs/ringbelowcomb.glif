@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringbelowcomb" format="2">
+  <unicode hex="0325"/>
+  <anchor x="-67.12264150943396" y="0.0" name="_bottom"/>
+  <outline>
+    <component base="ringcomb" xOffset="-222.73584905660377" yOffset="-890.382075471698"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="525.0000000000001" y="586.754716981132" type="curve"/>
+      <point x="512.4339622641509" y="592.0754716981132"/>
+      <point x="497.7924528301887" y="596.566037735849"/>
+      <point x="475.66037735849056" y="596.566037735849" type="curve" smooth="yes"/>
+      <point x="444.1320754716981" y="596.566037735849"/>
+      <point x="428.49056603773585" y="589.5849056603773"/>
+      <point x="417.92452830188677" y="567.2075471698113" type="curve" smooth="yes"/>
+      <point x="328.84905660377353" y="384.24528301886795"/>
+      <point x="232.8490566037736" y="222.37735849056602"/>
+      <point x="115.92452830188678" y="73.22641509433961" type="curve" smooth="yes"/>
+      <point x="98.0188679245283" y="50.66037735849057"/>
+      <point x="86.52830188679246" y="38.0"/>
+      <point x="64.9433962264151" y="15.999999999999998" type="curve"/>
+      <point x="75.75471698113209" y="6.603773584905658"/>
+      <point x="91.90566037735849" y="2.113207547169811"/>
+      <point x="115.96226415094338" y="2.113207547169811" type="curve" smooth="yes"/>
+      <point x="146.22641509433961" y="2.113207547169811"/>
+      <point x="167.86792452830187" y="11.679245283018865"/>
+      <point x="185.75471698113208" y="35.301886792452834" type="curve" smooth="yes"/>
+      <point x="309.4339622641509" y="190.9433962264151"/>
+      <point x="426.09433962264154" y="378.0566037735849"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.arrowtype.glyphMarkStatus</key>
+      <string>check</string>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

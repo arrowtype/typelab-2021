@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0123"/>
+  <note>
+turned comma accent above
+</note>
+  <outline>
+    <contour>
+      <point x="316.20754716981133" y="630.4528301886793" type="curve" smooth="yes"/>
+      <point x="330.52830188679246" y="630.4528301886793"/>
+      <point x="339.6792452830189" y="632.4528301886793"/>
+      <point x="353.3207547169811" y="637.1132075471698" type="curve"/>
+      <point x="353.3207547169811" y="715.8301886792453"/>
+      <point x="358.66037735849056" y="744.1698113207547"/>
+      <point x="379.2641509433962" y="809.6603773584906" type="curve"/>
+      <point x="368.6981132075472" y="815.7358490566038"/>
+      <point x="358.79245283018867" y="818.1509433962265"/>
+      <point x="343.3207547169811" y="818.1509433962265" type="curve" smooth="yes"/>
+      <point x="329.1698113207547" y="818.1509433962265"/>
+      <point x="320.92452830188677" y="815.1509433962265"/>
+      <point x="312.0188679245283" y="805.0754716981132" type="curve" smooth="yes"/>
+      <point x="285.37735849056605" y="774.9245283018868"/>
+      <point x="268.8679245283019" y="716.8301886792453"/>
+      <point x="268.8679245283019" y="666.3396226415094" type="curve" smooth="yes"/>
+      <point x="268.8679245283019" y="641.2641509433962"/>
+      <point x="285.92452830188677" y="630.4528301886793"/>
+    </contour>
+    <component base="g.mono"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>
