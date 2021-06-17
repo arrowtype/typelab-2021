@@ -47,19 +47,21 @@ cd arrowtype-shell-tutorial
 
 ### Set up the environment
 
-To build, set up the virtual environment. Run the following lines of code in y
+To build, you’ll want to set up a virtual environment. It’s not *absolutely* necessary, but using virtual environments is pretty easy, and extremely useful in the long run, to prevent conflicts between different projects. 
+
+Make sure you’ve navigated to the project directory (as shown in the previous step), then run this command in your terminal:
 
 ```bash
 python3 -m venv venv
 ```
 
-Then activate it:
+Then, activate the virtrual environment:
 
 ```bash
 source venv/bin/activate
 ```
 
-Then install requirements:
+Then, install requirements:
 
 ```bash
 pip install -r requirements.txt
