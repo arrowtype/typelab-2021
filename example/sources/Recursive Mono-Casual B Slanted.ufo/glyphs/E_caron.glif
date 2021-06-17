@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="600"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="496.049599868" y="786" type="curve"/>
+      <point x="552.049599868" y="809"/>
+      <point x="607.049599868" y="841"/>
+      <point x="652.049599868" y="877" type="curve" smooth="yes"/>
+      <point x="677.049599868" y="897"/>
+      <point x="687.049599868" y="914"/>
+      <point x="689.049599868" y="929" type="curve" smooth="yes"/>
+      <point x="692.049599868" y="948"/>
+      <point x="676.049599868" y="960"/>
+      <point x="617.049599868" y="960" type="curve" smooth="yes"/>
+      <point x="572.049599868" y="960" type="line"/>
+      <point x="545.049599868" y="935"/>
+      <point x="502.049599868" y="903"/>
+      <point x="428.049599868" y="862" type="curve"/>
+      <point x="487.049599868" y="878" type="line"/>
+      <point x="464.049599868" y="878"/>
+      <point x="442.049599868" y="878"/>
+      <point x="419.049599868" y="878" type="curve"/>
+      <point x="471.049599868" y="863" type="line"/>
+      <point x="424.049599868" y="895"/>
+      <point x="409.049599868" y="913"/>
+      <point x="389.049599868" y="935" type="curve" smooth="yes"/>
+      <point x="371.049599868" y="955"/>
+      <point x="347.049599868" y="960"/>
+      <point x="313.049599868" y="960" type="curve" smooth="yes"/>
+      <point x="283.049599868" y="960"/>
+      <point x="262.049599868" y="955"/>
+      <point x="239.04959986799997" y="942" type="curve"/>
+      <point x="256.049599868" y="893"/>
+      <point x="286.049599868" y="853"/>
+      <point x="329.049599868" y="819" type="curve" smooth="yes"/>
+      <point x="361.049599868" y="793"/>
+      <point x="385.049599868" y="786"/>
+      <point x="432.049599868" y="786" type="curve" smooth="yes"/>
+      <point x="453.049599868" y="786"/>
+      <point x="475.049599868" y="786"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron.mono" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="346" y="631" type="curve"/>
+			<point x="391" y="652"/>
+			<point x="456" y="699"/>
+			<point x="485" y="743" type="curve" smooth="yes"/>
+			<point x="501" y="768"/>
+			<point x="508" y="786"/>
+			<point x="508" y="798" type="curve" smooth="yes"/>
+			<point x="508" y="817"/>
+			<point x="470" y="833"/>
+			<point x="402" y="833" type="curve" smooth="yes"/>
+			<point x="396" y="833" type="line"/>
+			<point x="378" y="801"/>
+			<point x="347" y="766"/>
+			<point x="287" y="720" type="curve"/>
+			<point x="340" y="738" type="line"/>
+			<point x="274" y="738" type="line"/>
+			<point x="329" y="722" type="line"/>
+			<point x="278" y="754"/>
+			<point x="256" y="775"/>
+			<point x="240" y="797" type="curve" smooth="yes"/>
+			<point x="218" y="826"/>
+			<point x="205" y="833"/>
+			<point x="174" y="833" type="curve" smooth="yes"/>
+			<point x="140" y="833"/>
+			<point x="115" y="828"/>
+			<point x="92" y="814" type="curve"/>
+			<point x="123" y="748"/>
+			<point x="165" y="700"/>
+			<point x="214" y="664" type="curve" smooth="yes"/>
+			<point x="252" y="636"/>
+			<point x="271" y="631"/>
+			<point x="310" y="631" type="curve" smooth="yes"/>
+			<point x="327" y="631"/>
+			<point x="336" y="631"/>
+		</contour>
+		<component base="r.mono"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,0,0.5</string>
+		</dict>
+	</lib>
+</glyph>

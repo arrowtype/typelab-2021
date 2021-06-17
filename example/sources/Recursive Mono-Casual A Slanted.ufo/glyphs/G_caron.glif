@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcaron" format="2">
+  <advance width="600"/>
+  <unicode hex="01E6"/>
+  <outline>
+    <contour>
+      <point x="460.79953020519997" y="790" type="curve"/>
+      <point x="523.7995302052" y="810"/>
+      <point x="582.7995302052" y="848"/>
+      <point x="632.7995302052" y="890" type="curve" smooth="yes"/>
+      <point x="660.7995302052" y="913"/>
+      <point x="671.7995302052" y="930"/>
+      <point x="673.7995302052" y="937" type="curve" smooth="yes"/>
+      <point x="675.7995302052" y="947"/>
+      <point x="671.7995302052" y="953"/>
+      <point x="651.7995302052" y="953" type="curve" smooth="yes"/>
+      <point x="639.7995302052" y="953" type="line"/>
+      <point x="596.7995302052" y="906"/>
+      <point x="529.7995302052" y="856"/>
+      <point x="432.79953020519997" y="821" type="curve"/>
+      <point x="493.79953020519997" y="833" type="line"/>
+      <point x="471.79953020519997" y="833"/>
+      <point x="449.79953020519997" y="833"/>
+      <point x="427.79953020519997" y="833" type="curve"/>
+      <point x="483.79953020519997" y="820" type="line"/>
+      <point x="417.79953020519997" y="851"/>
+      <point x="376.79953020519997" y="887"/>
+      <point x="349.79953020519997" y="927" type="curve" smooth="yes"/>
+      <point x="337.79953020519997" y="946"/>
+      <point x="332.79953020519997" y="950"/>
+      <point x="320.79953020519997" y="950" type="curve" smooth="yes"/>
+      <point x="308.79953020519997" y="950"/>
+      <point x="305.79953020519997" y="948"/>
+      <point x="295.79953020519997" y="942" type="curve"/>
+      <point x="317.79953020519997" y="883"/>
+      <point x="367.79953020519997" y="837"/>
+      <point x="401.79953020519997" y="812" type="curve" smooth="yes"/>
+      <point x="431.79953020519997" y="791"/>
+      <point x="442.79953020519997" y="790"/>
+      <point x="451.79953020519997" y="790" type="curve" smooth="yes"/>
+      <point x="454.79953020519997" y="790"/>
+      <point x="457.79953020519997" y="790"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

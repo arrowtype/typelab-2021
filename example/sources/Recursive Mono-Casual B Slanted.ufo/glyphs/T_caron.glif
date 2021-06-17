@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="600"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="491.79953020519997" y="785" type="curve"/>
+      <point x="547.7995302052" y="808"/>
+      <point x="602.7995302052" y="840"/>
+      <point x="647.7995302052" y="876" type="curve" smooth="yes"/>
+      <point x="672.7995302052" y="896"/>
+      <point x="682.7995302052" y="913"/>
+      <point x="684.7995302052" y="928" type="curve" smooth="yes"/>
+      <point x="687.7995302052" y="947"/>
+      <point x="671.7995302052" y="959"/>
+      <point x="612.7995302052" y="959" type="curve" smooth="yes"/>
+      <point x="567.7995302052" y="959" type="line"/>
+      <point x="540.7995302052" y="934"/>
+      <point x="497.79953020519997" y="902"/>
+      <point x="423.79953020519997" y="861" type="curve"/>
+      <point x="482.79953020519997" y="877" type="line"/>
+      <point x="459.79953020519997" y="877"/>
+      <point x="437.79953020519997" y="877"/>
+      <point x="414.79953020519997" y="877" type="curve"/>
+      <point x="466.79953020519997" y="862" type="line"/>
+      <point x="419.79953020519997" y="894"/>
+      <point x="404.79953020519997" y="912"/>
+      <point x="384.79953020519997" y="934" type="curve" smooth="yes"/>
+      <point x="366.79953020519997" y="954"/>
+      <point x="342.79953020519997" y="959"/>
+      <point x="308.79953020519997" y="959" type="curve" smooth="yes"/>
+      <point x="278.79953020519997" y="959"/>
+      <point x="257.79953020519997" y="954"/>
+      <point x="234.79953020519997" y="941" type="curve"/>
+      <point x="251.79953020519997" y="892"/>
+      <point x="281.79953020519997" y="852"/>
+      <point x="324.79953020519997" y="818" type="curve" smooth="yes"/>
+      <point x="356.79953020519997" y="792"/>
+      <point x="380.79953020519997" y="785"/>
+      <point x="427.79953020519997" y="785" type="curve" smooth="yes"/>
+      <point x="448.79953020519997" y="785"/>
+      <point x="470.79953020519997" y="785"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

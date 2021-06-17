@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainvertedbreve" format="2">
+  <advance width="600"/>
+  <unicode hex="0203"/>
+  <outline>
+    <contour>
+      <point x="397" y="703" type="curve"/>
+      <point x="453" y="703"/>
+      <point x="482" y="678"/>
+      <point x="489" y="634" type="curve"/>
+      <point x="515" y="635"/>
+      <point x="536" y="641"/>
+      <point x="556" y="654" type="curve" smooth="yes"/>
+      <point x="570" y="663"/>
+      <point x="576" y="677"/>
+      <point x="575" y="692" type="curve" smooth="yes"/>
+      <point x="570" y="768"/>
+      <point x="512" y="816"/>
+      <point x="417" y="816" type="curve" smooth="yes"/>
+      <point x="411" y="816" type="line" smooth="yes"/>
+      <point x="322" y="816"/>
+      <point x="247" y="779"/>
+      <point x="213" y="696" type="curve" smooth="yes"/>
+      <point x="205" y="677"/>
+      <point x="206" y="660"/>
+      <point x="216" y="652" type="curve" smooth="yes"/>
+      <point x="234" y="639"/>
+      <point x="257" y="634"/>
+      <point x="287" y="634" type="curve"/>
+      <point x="317" y="685"/>
+      <point x="348" y="700"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

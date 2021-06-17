@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agravedbl" format="2">
+  <advance width="600"/>
+  <unicode hex="0200"/>
+  <outline>
+    <contour>
+      <point x="313.5494605425" y="935" type="curve"/>
+      <point x="301.5494605425" y="935"/>
+      <point x="290.5494605425" y="934"/>
+      <point x="279.5494605425" y="930" type="curve" smooth="yes"/>
+      <point x="269.5494605425" y="926"/>
+      <point x="265.5494605425" y="918"/>
+      <point x="267.5494605425" y="905" type="curve" smooth="yes"/>
+      <point x="271.5494605425" y="872"/>
+      <point x="300.5494605425" y="827"/>
+      <point x="340.5494605425" y="801" type="curve" smooth="yes"/>
+      <point x="354.5494605425" y="792"/>
+      <point x="366.5494605425" y="790"/>
+      <point x="379.5494605425" y="790" type="curve" smooth="yes"/>
+      <point x="389.5494605425" y="790"/>
+      <point x="397.5494605425" y="794"/>
+      <point x="402.5494605425" y="804" type="curve"/>
+      <point x="353.5494605425" y="840"/>
+      <point x="325.5494605425" y="885"/>
+    </contour>
+    <contour>
+      <point x="483.5494605425" y="935" type="curve"/>
+      <point x="471.5494605425" y="935"/>
+      <point x="460.5494605425" y="934"/>
+      <point x="449.5494605425" y="930" type="curve" smooth="yes"/>
+      <point x="439.5494605425" y="926"/>
+      <point x="435.5494605425" y="918"/>
+      <point x="437.5494605425" y="905" type="curve" smooth="yes"/>
+      <point x="441.5494605425" y="872"/>
+      <point x="470.5494605425" y="827"/>
+      <point x="510.5494605425" y="801" type="curve" smooth="yes"/>
+      <point x="524.5494605425" y="792"/>
+      <point x="536.5494605425" y="790"/>
+      <point x="549.5494605425" y="790" type="curve" smooth="yes"/>
+      <point x="559.5494605425" y="790"/>
+      <point x="567.5494605425" y="794"/>
+      <point x="572.5494605425" y="804" type="curve"/>
+      <point x="523.5494605425" y="840"/>
+      <point x="495.5494605425" y="885"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,0,0.1505</string>
+    </dict>
+  </lib>
+</glyph>

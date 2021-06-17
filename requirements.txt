@@ -1,0 +1,8 @@
+fontmake==2.4.0
+fonttools==4.24.4
+fontbakery==0.7.37
+gftools==0.7.2
+fs==2.4.13
+ufonormalizer==0.5.4
+
+git+https://github.com/typemytype/drawbot
