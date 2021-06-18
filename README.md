@@ -1,8 +1,8 @@
 # Tutorial: Shell scripting for Font Builds
 
-[This repo is in support of a presentation for TypeLab 2021](https://2021.typographics.com/typelab#1188).
+This repo is in support of a presentation for [TypeLab 2021](https://2021.typographics.com/typelab#1188).
 
-[You can watch this presentation on YouTube](https://youtu.be/yj_YznWx3SQ)
+You can [watch this presentation on YouTube](https://youtu.be/yj_YznWx3SQ)
 
 This repo includes a quick demo showing how shell scripts can help you make font build pipelines that are easy to set up, easy to extend, and stable over the long term. 
 
