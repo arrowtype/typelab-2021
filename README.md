@@ -18,7 +18,13 @@ The first time you build, you will need to clone this repo, set up a virtual env
 
 Note: when there are multiple lines of code, you can copy and paste all of them into a terminal and run them all at once. They’ll all execute in sequence.
 
-### First step: Install a woff2 compressor
+### Basic setup
+
+#### First things first: Install Python
+
+To use enable this workflow, you first have to [Download the latest version of Python](http://python.org/download/) and install it if you haven’t already.
+
+#### Also important: Install a woff2 compressor
 
 Open a fresh Terminal or Command Line window.
 
@@ -45,7 +51,7 @@ git clone https://github.com/arrowtype/typelab-2021.git arrowtype-shell-tutorial
 cd arrowtype-shell-tutorial
 ```
 
-### Set up the environment
+### Set up the project environment
 
 To build, you’ll want to set up a virtual environment. It’s not *absolutely* necessary, but using virtual environments is pretty easy, and extremely useful in the long run, to prevent conflicts between different projects. 
 
@@ -108,5 +114,5 @@ example-source/build-statics.sh
 - To learn more about using Shell scripts, read [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/), by Tania Rascia.
 - It is extremely useful to use virtual environments to avoid conflicts between different font projects. A technique I like for this is described in [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54), by Matthew Sarmiento.
 - To check out a much more complex font build, take a look at the full [Recursive](https://github.com/arrowtype/recursive) project. In particular, the [mastering](https://github.com/arrowtype/recursive/tree/728ced98fe7acc4756388fc937af43e61012d838/mastering) scripts, by Ben Kiel, show a way to run a font build that mixes AFDKO and FontMake, entirely in Python. Then, the [make-release](https://github.com/arrowtype/recursive/blob/728ced98fe7acc4756388fc937af43e61012d838/src/build-scripts/make-release/00-prep-release.sh) scripts, by me (Stephen Nixon) use a blend of Shell & Python scripts to package the built fonts in a specific way for GitHub releases. Most font builds don’t need to be this complex, but there are a lot of useful techniques employed in here.
-- There is some very cool work being done to automate and speed up font builds further. Check out [this quick demo by Simon Cozens](https://twitter.com/simoncozens/status/1405267459028905984?s=20).
+- There is some very cool work being done to automate and speed up font builds further. Check out [this quick demo by Simon Cozens](https://twitter.com/simoncozens/status/1405267459028905984?s=20). This approach ultimately uses the GFtools Builder, part of a pip-installable Python package to build & fix issues in fonts. There’s a lot to learn from this, and I may move towards using this tool – but it may also need a bit of further tweaking to work for some of the edge cases in the fonts I tend to make.
 - You can learn a lot by just starting to use tools for font builds. Check out [FontMake](https://github.com/googlefonts/fontmake), [FontBakery](https://github.com/googlefonts/fontbakery/), [woff2](https://github.com/google/woff2), [GF Tools](https://github.com/googlefonts/gftools), [FontTools](https://github.com/fonttools/fonttools), and [DrawBot](https://www.drawbot.com/).
